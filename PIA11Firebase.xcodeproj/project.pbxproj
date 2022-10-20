@@ -18,6 +18,7 @@
 		ABD72C5028FD40680081A1DE /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = ABD72C4F28FD40680081A1DE /* FirebaseDatabaseSwift */; };
 		ABD72C5228FD40680081A1DE /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = ABD72C5128FD40680081A1DE /* FirebaseStorage */; };
 		ABD72C5428FD50020081A1DE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ABD72C5328FD50020081A1DE /* GoogleService-Info.plist */; };
+		ABE25A0A290143740059AB77 /* FruitinfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE25A09290143740059AB77 /* FruitinfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		ABD72C3A28FD3ADC0081A1DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABD72C3D28FD3ADC0081A1DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ABD72C5328FD50020081A1DE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		ABE25A09290143740059AB77 /* FruitinfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitinfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				ABD72C5328FD50020081A1DE /* GoogleService-Info.plist */,
 				ABD72C3628FD3ADA0081A1DE /* PIA11FirebaseApp.swift */,
 				ABD72C3828FD3ADA0081A1DE /* ContentView.swift */,
+				ABE25A09290143740059AB77 /* FruitinfoView.swift */,
 				ABD72C3A28FD3ADC0081A1DE /* Assets.xcassets */,
 				ABD72C3C28FD3ADC0081A1DE /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABE25A0A290143740059AB77 /* FruitinfoView.swift in Sources */,
 				ABD72C3928FD3ADA0081A1DE /* ContentView.swift in Sources */,
 				ABD72C3728FD3ADA0081A1DE /* PIA11FirebaseApp.swift in Sources */,
 			);
